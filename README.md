@@ -82,4 +82,4 @@ Detailed report available in:
 # Author
 
 Gowry N  
-Cybersecurity Enthusiast | SOC Analyst Aspirant
+Cybersecurity Enthusiast | SOC Analyst 
